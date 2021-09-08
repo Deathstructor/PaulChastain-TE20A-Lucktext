@@ -1,0 +1,16 @@
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\bin\Debug\net5.0\Lucktext.exe
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\bin\Debug\net5.0\Lucktext.deps.json
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\bin\Debug\net5.0\Lucktext.runtimeconfig.json
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\bin\Debug\net5.0\Lucktext.runtimeconfig.dev.json
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\bin\Debug\net5.0\Lucktext.dll
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\bin\Debug\net5.0\ref\Lucktext.dll
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\bin\Debug\net5.0\Lucktext.pdb
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\Lucktext.csproj.AssemblyReference.cache
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\Lucktext.AssemblyInfoInputs.cache
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\Lucktext.AssemblyInfo.cs
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\Lucktext.dll
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\ref\Lucktext.dll
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\Lucktext.pdb
+C:\Users\chastain.paul\Documents\Projects\Spel\Lucktext\Lucktext\obj\Debug\net5.0\Lucktext.genruntimeconfig.cache
